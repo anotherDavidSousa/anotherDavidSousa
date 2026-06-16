@@ -5,7 +5,7 @@ class David:
     stack      = ["Python", "Django", "Flask", "Selenium", "n8n", "Docker"]
     focus      = "Logistics · Fleet Management · Process Automation"
     studying   = "Engenharia de Software — 7º semestre"
-    fun_fact   = "sei fazer = [pão,bolo] 🎂"
+    fun_fact   = "sei fazer = pão e bolo 🎂"
 ```
 
 ---
