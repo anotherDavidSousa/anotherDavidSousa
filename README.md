@@ -4,8 +4,8 @@ class David:
     location   = "Ipatinga, MG 🇧🇷"
     stack      = ["Python", "Django", "Flask", "Selenium", "n8n", "Docker"]
     focus      = "Logistics · Fleet Management · Process Automation"
-    studying   = "Engenharia de Software — 6º semestre"
-    fun_fact   = "sei fazer bolo 🎂"
+    studying   = "Engenharia de Software — 7º semestre"
+    fun_fact   = "sei fazer = [pão,bolo] 🎂"
 ```
 
 ---
