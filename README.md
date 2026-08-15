@@ -120,6 +120,7 @@ A Python desktop application capable of assisting the workflow through:
 
 ➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/logistics-automation-case-study)**
 
+---
 # 🤝 Let's Connect
 
 I'm currently interested in opportunities involving:
