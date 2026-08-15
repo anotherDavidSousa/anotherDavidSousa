@@ -86,37 +86,39 @@ I especially enjoy turning repetitive or fragmented processes into software that
 | 📦 **Archived**   | Preserved for historical or learning purposes |
 
 ---
-🚛 Logistics Desktop Automation
-Status: ✅📦
-Desktop automation designed to reduce repetitive work in logistics workflows.
 
+## 🚛 Logistics Desktop Automation
+>Status: ✅📦
 
+> Desktop automation designed to reduce repetitive work in logistics workflows.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+![Automation](https://img.shields.io/badge/Focus-Automation-blue?style=flat)
+![OCR](https://img.shields.io/badge/OCR-Document%20Processing-orange?style=flat)
 
-
-
-The problem
+### The problem
 
 Operational users needed to repeatedly extract information from documents and manually enter the same data into another system.
 
-What I built
+### What I built
 
 A Python desktop application capable of assisting the workflow through:
 
-XML processing
-PDF document handling
-OCR
-Data extraction
-File monitoring
-Automatic file identification
-Desktop interface automation
-Visual operator interface
-Workflow validation
-Engineering topics
+- XML processing
+- PDF document handling
+- OCR
+- Data extraction
+- File monitoring
+- Automatic file identification
+- Desktop interface automation
+- Visual operator interface
+- Workflow validation
 
-Python · CustomTkinter · OCR · XML · PDF Processing · Desktop Automation
+### Engineering topics
 
-➡️ Explore the Logistics Automation Case Study
+`Python` · `CustomTkinter` · `OCR` · `XML` · `PDF Processing` · `Desktop Automation`
+
+➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/logistics-automation-case-study)**
 
 # 🤝 Let's Connect
 
