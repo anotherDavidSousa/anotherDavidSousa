@@ -14,4 +14,5 @@
 <br>
 
 > I build software and automation solutions focused on solving real operational problems — from backend systems and APIs to RPA, integrations and infrastructure.
+
 > Eu desenvolvo soluções de software e automação focadas em resolver problemas operacionais reais — desde sistemas de back-end e APIs até RPA, integrações e infraestrutura.
