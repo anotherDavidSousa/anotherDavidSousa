@@ -30,7 +30,7 @@ Building practical software, automations and APIs that solve real-world problems
 
 ### 💼 Case Studies
 
-* [🚛 Logistics Automation](https://github.com/anotherDavidSousa/rodopar_interface_customtk)
+* [🚛 Logistics Automation](https://github.com/anotherDavidSousa/rodopar_interface_customtk?tab=readme-ov-file)
 * [🚚 Fleet Management](https://github.com/anotherDavidSousa/fleet-management-case-study)
 * [🏘️ Community CRM](https://github.com/anotherDavidSousa/community-management-saas-case-study)
 
@@ -118,7 +118,7 @@ A Python desktop application capable of assisting the workflow through:
 
 `Python` · `CustomTkinter` · `OCR` · `XML` · `PDF Processing` · `Desktop Automation`
 
-➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/rodopar_interface_customtk)**
+➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/rodopar_interface_customtk?tab=readme-ov-file)**
 
 ---
 # 🤝 Let's Connect
