@@ -22,7 +22,7 @@ Building practical software, automations and APIs that solve real-world problems
 * Docker
 * AI Agents
 * API Integration
-* *SQL
+* SQL(PostgrSQL)
 
 </td>
 
@@ -86,6 +86,37 @@ I especially enjoy turning repetitive or fragmented processes into software that
 | 📦 **Archived**   | Preserved for historical or learning purposes |
 
 ---
+🚛 Logistics Desktop Automation
+Status: ✅📦
+Desktop automation designed to reduce repetitive work in logistics workflows.
+
+
+
+
+
+
+The problem
+
+Operational users needed to repeatedly extract information from documents and manually enter the same data into another system.
+
+What I built
+
+A Python desktop application capable of assisting the workflow through:
+
+XML processing
+PDF document handling
+OCR
+Data extraction
+File monitoring
+Automatic file identification
+Desktop interface automation
+Visual operator interface
+Workflow validation
+Engineering topics
+
+Python · CustomTkinter · OCR · XML · PDF Processing · Desktop Automation
+
+➡️ Explore the Logistics Automation Case Study
 
 # 🤝 Let's Connect
 
