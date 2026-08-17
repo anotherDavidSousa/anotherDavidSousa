@@ -22,7 +22,7 @@ Building practical software, automations and APIs that solve real-world problems
 * Docker
 * AI Agents
 * API Integration
-* SQL(PostgrSQL)
+* SQL(PostgreSQL)
 
 </td>
 
