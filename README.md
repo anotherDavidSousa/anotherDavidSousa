@@ -44,6 +44,7 @@ Building practical software, automations and APIs that solve real-world problems
 * [Backend Lab](https://github.com/anotherDavidSousa/fastapi-backend-lab)
 * [Docker Lab](https://github.com/anotherDavidSousa/docker-infrastructure-lab)
 * [AI Agents Lab](https://github.com/anotherDavidSousa/ai-agents-lab)
+* [UIPath](https://github.com/anotherDavidSousa/uipath-learning-lab/blob/main/journal/2026-08.md)
 
 </td>
 
