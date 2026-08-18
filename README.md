@@ -53,7 +53,8 @@ Building practical software, automations and APIs that solve real-world problems
 ### 📘 Learning Log
 
 - [**Aug 2026** — UiPath & RPA](https://github.com/anotherDavidSousa/uipath-learning-lab)
-
+- [**Aug 2026** — IA Master-PycodeBR](https://github.com/anotherDavidSousa/IA-Master-PycodeBR)
+- 
 </td>
 
 </tr>
