@@ -44,7 +44,7 @@ Building practical software, automations and APIs that solve real-world problems
 * [Backend Lab](https://github.com/anotherDavidSousa/fastapi-backend-lab)
 * [Docker Lab](https://github.com/anotherDavidSousa/docker-infrastructure-lab)
 * [AI Agents Lab](https://github.com/anotherDavidSousa/ai-agents-lab)
-* [UIPath](https://github.com/anotherDavidSousa/uipath-learning-lab/blob/main/journal/2026-08.md)
+* [UIPath](https://github.com/anotherDavidSousa/uipath-learning-lab)
 
 </td>
 
@@ -52,8 +52,8 @@ Building practical software, automations and APIs that solve real-world problems
 
 ### 📘 Learning Log
 
-- [**Aug 2026** — UiPath & RPA](https://github.com/anotherDavidSousa/uipath-learning-lab)
-- [**Aug 2026** — IA Master-PycodeBR](https://github.com/anotherDavidSousa/IA-Master-PycodeBR)
+- [**Aug 2026** — UiPath & RPA](https://github.com/anotherDavidSousa/uipath-learning-lab/blob/main/journal/2026-08.md)
+- [**Aug 2026** — IA Master-PycodeBR](https://github.com/anotherDavidSousa/IA-Master-PycodeBR/blob/main/LEARNING_LOG.md)
 
 </td>
 
