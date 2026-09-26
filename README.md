@@ -19,9 +19,9 @@ Building practical software, automations and APIs that solve real-world problems
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-USUARIO/)
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <td width="auto" valign="top">
+    <td width="50%" valign="top">
 <h2>🚀 Projects in Action </h2>
 
 <ul>
@@ -42,7 +42,7 @@ Building practical software, automations and APIs that solve real-world problems
   </li>
 </ul>
     </td>
-    <td width="auto" valign="top">
+    <td width="50%" valign="top">
       <h2>📘 Learn log</h2>
       <ul>
         <li><a href="#">UiPath e RPA</a></li>
