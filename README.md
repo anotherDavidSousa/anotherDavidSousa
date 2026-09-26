@@ -51,11 +51,7 @@ Building practical software, automations and APIs that solve real-world problems
   </tr>
 
 </table>
-<table>
-<tr>
-
-
-
+  
 ---
 
 ## 👋 About this Lab
