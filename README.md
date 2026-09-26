@@ -52,9 +52,9 @@ Building practical software, automations and APIs that solve real-world problems
   <li><a href="#">IA</a></li>
 </ul>
 
-    </td>
+  </td>
   </tr>
-</table>
+  </table>
   
 ---
 
