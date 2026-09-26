@@ -21,7 +21,7 @@ Building practical software, automations and APIs that solve real-world problems
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 <h2>🚀 Projects in Action </h2>
 
 <ul>
@@ -42,7 +42,7 @@ Building practical software, automations and APIs that solve real-world problems
   </li>
 </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h2>📘 Learn log</h2>
       <ul>
         <li><a href="#">UiPath e RPA</a></li>
