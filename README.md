@@ -48,8 +48,16 @@ Building practical software, automations and APIs that solve real-world problems
 <h2>📘 Learn log</h2>
 
 <ul>
-  <li><a href="#">[UiPath e RPA](https://github.com/anotherDavidSousa/uipath-learning-lab/blob/main/journal/2026-08.md)</a></li>
-  <li><a href="#">IA</a></li>
+  <li>
+    <a href="https://github.com/anotherDavidSousa/uipath-learning-lab/blob/main/journal/2026-08.md">
+      UiPath studies
+    </a>
+  </li>
+    <li>
+    <a href="https://github.com/anotherDavidSousa/IA-Master-PycodeBR/blob/main/journal/2026-08.md">
+      IA studies
+    </a>
+  </li>
 </ul>
 
   </td>
