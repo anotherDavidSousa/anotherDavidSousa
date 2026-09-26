@@ -73,7 +73,7 @@ I especially enjoy turning repetitive or fragmented processes into software that
 ---
 
 
-## CTE Automation for Rodopar (2023)
+## [CTE Automation for Rodopar (2023)](https://github.com/anotherDavidSousa/CTE_Automation)
 
 > Desktop automation designed to reduce repetitive work in logistics workflows.
 
