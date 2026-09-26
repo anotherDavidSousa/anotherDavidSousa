@@ -12,6 +12,7 @@ Building practical software, automations and APIs that solve real-world problems
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 [![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)](https://www.uipath.com/)
+
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat)
 ![Location](https://img.shields.io/badge/Brazil-🇧🇷-informational?style=flat)
 
