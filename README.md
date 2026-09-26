@@ -27,7 +27,7 @@ Building practical software, automations and APIs that solve real-world problems
 
 <ul>
   <li>
-    <a href="https://github.com/anotherDavidSousa/rodopar_interface_customtk">
+    <a href="https://github.com/anotherDavidSousa/CTE_Automation/blob/main/README.md">
       CTE Automation
     </a>
   </li>
@@ -102,7 +102,7 @@ Main capabilities
 - Operator-facing desktop interface
 - Workflow validation
 
-➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/CTE_Automation)**
+➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/CTE_Automation/blob/main/README.md)**
 
 ---
 
