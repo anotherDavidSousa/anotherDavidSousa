@@ -1,64 +1,60 @@
-# 🧪 David's Dev Lab
+# David's Lab
 
-**Software Engineering · Backend · Automation · RPA**
+**Software Engineering · Fullstack · Automation · RPA**
 
 Building practical software, automations and APIs that solve real-world problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-anotherDavidSousa-181717?style=flat\&logo=github)](https://github.com/anotherDavidSousa)
-![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
+[![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)](https://www.uipath.com/)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat)]
 ![Location](https://img.shields.io/badge/Brazil-🇧🇷-informational?style=flat)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-davidsousa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-USUARIO/)
 ---
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+<h2>🚀 Projects in Action </h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/anotherDavidSousa/rodopar_interface_customtk">
+      CTE Automation
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/anotherDavidSousa/fleet-management-case-study">
+      Fleet Management
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/anotherDavidSousa/community-management-saas-case-study">
+      Community CRM
+    </a>
+  </li>
+</ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>📘 Learn log</h2>
+      <ul>
+        <li><a href="#">UiPath e RPA</a></li>
+        <li><a href="#">IA</a></li>
+    </td>
+  </tr>
+
+</table>
+<table>
 <tr>
 
-<td valign="top" width="25%">
 
-### 🎯 Current Focus
-
-* UiPath
-* FastAPI
-* Docker
-* AI Agents
-* API Integration
-* SQL(PostgreSQL)
-
-</td>
-
-<td valign="top" width="25%">
-
-### 💼 Case Studies
-
-* [🚛 Logistics Automation](https://github.com/anotherDavidSousa/rodopar_interface_customtk?tab=readme-ov-file)
-* [🚚 Fleet Management](https://github.com/anotherDavidSousa/fleet-management-case-study)
-* [🏘️ Community CRM](https://github.com/anotherDavidSousa/community-management-saas-case-study)
-
-</td>
-
-<td valign="top" width="25%">
-
-### 🧪 Experiments
-
-* [RPA Lab](https://github.com/anotherDavidSousa/rpa-automation-lab)
-* [Backend Lab](https://github.com/anotherDavidSousa/fastapi-backend-lab)
-* [Docker Lab](https://github.com/anotherDavidSousa/docker-infrastructure-lab)
-* [AI Agents Lab](https://github.com/anotherDavidSousa/IA-Master-PycodeBR/tree/main)
-* [UIPath](https://github.com/anotherDavidSousa/uipath-learning-lab)
-
-</td>
-
-<td valign="top" width="25%">
-
-### 📘 Learning Log
-
-- [**Aug 2026** — UiPath & RPA](https://github.com/anotherDavidSousa/uipath-learning-lab/blob/main/journal/2026-08.md)
-- [**Aug 2026** — IA Master-PycodeBR](https://github.com/anotherDavidSousa/IA-Master-PycodeBR/blob/main/LEARNING_LOG.md)
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -77,20 +73,7 @@ I especially enjoy turning repetitive or fragmented processes into software that
 ---
 
 
-# 📌 Repository Status
-
-| Status            | Meaning                                       |
-| ----------------- | --------------------------------------------- |
-| 🟢 **Active**     | Currently being developed or studied          |
-| 🔵 **Case Study** | Documented real-world project                 |
-| 🧪 **Experiment** | Technology or architecture exploration        |
-| ✅ **Completed**   | Stable demonstration project                  |
-| 📦 **Archived**   | Preserved for historical or learning purposes |
-
----
-
-## 🚛 Logistics Desktop Automation
->Status: ✅📦
+## CTE Automation for Rodopar (2023)
 
 > Desktop automation designed to reduce repetitive work in logistics workflows.
 
@@ -100,60 +83,27 @@ I especially enjoy turning repetitive or fragmented processes into software that
 
 ### The problem
 
-Operational users needed to repeatedly extract information from documents and manually enter the same data into another system.
+At Fertran, part of the operational workflow required employees to extract data from documents and enter the same information manually into another system. This created repetitive work and increased the risk of data-entry errors.
 
-### What I built
+### The solution
 
-A Python desktop application capable of assisting the workflow through:
+I developed a Python desktop application that assisted operators throughout the process. It monitored incoming files, identified document types, extracted relevant data from XML and PDF files, used OCR when necessary, and automated parts of the interaction with the target system.
 
-- XML processing
-- PDF document handling
-- OCR
-- Data extraction
-- File monitoring
+The application also included a visual interface and validation steps, allowing operators to review the extracted information before completing the workflow.
+
+Main capabilities
+
+- XML and PDF processing
+- OCR for scanned documents
+- Data extraction and normalization
 - Automatic file identification
+- File monitoring
 - Desktop interface automation
-- Visual operator interface
+- Operator-facing desktop interface
 - Workflow validation
 
-### Engineering topics
-
-`Python` · `CustomTkinter` · `OCR` · `XML` · `PDF Processing` · `Desktop Automation`
-
-➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/rodopar_interface_customtk?tab=readme-ov-file)**
-
----
-# 🤝 Let's Connect
-
-I'm currently interested in opportunities involving:
-
-* Python development
-* Backend engineering
-* Automation / RPA
-* API integrations
-* Software engineering
-* Process automation
-
-📍 Brazil
-💼 Open to remote opportunities
-
-**GitHub:** [@anotherDavidSousa](https://github.com/anotherDavidSousa)
-
-<!--
-Adicione depois:
-
-LinkedIn:
-[LinkedIn](https://linkedin.com/in/SEU-USUARIO)
-
-Portfolio:
-[Portfolio](https://SEU-SITE.com)
-
-Email:
-[Email](mailto:SEU-EMAIL)
--->
+➡️ **[Explore the Logistics Automation Case Study](https://github.com/anotherDavidSousa/CTE_Automation)**
 
 ---
 
-<p align="center">
-  <strong>🧪 Building software, automating processes and learning in public.</strong>
-</p>
+
